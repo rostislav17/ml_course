@@ -1,0 +1,1001 @@
+	singer	album	rym_rating	rating	review
+0	Radiohead	OK Computer	4.23	41673.0	2202.0
+1	Pink Floyd	The Dark Side of the Moon	4.23	35458.0	1847.0
+2	The Velvet Underground	The Velvet Underground & Nico	4.29	27824.0	1203.0
+3	Radiohead	Kid A	4.19	34019.0	1304.0
+4	Pink Floyd	Wish You Were Here	4.27	28795.0	1130.0
+5	King Crimson	In the Court of the Crimson King	4.3	24018.0	989.0
+6	My Bloody Valentine	Loveless	4.21	27085.0	1352.0
+7	The Beach Boys	Pet Sounds	4.21	21031.0	1009.0
+8	The Beatles	Abbey Road	4.29	27004.0	1356.0
+9	The Beatles	Revolver	4.27	26834.0	1426.0
+10	Miles Davis	Kind of Blue	4.27	17944.0	665.0
+11	Led Zeppelin	Led Zeppelin [IV]	4.17	23644.0	1089.0
+12	David Bowie	The Rise and Fall of Ziggy Stardust and the Spiders From Mars	4.28	23421.0	865.0
+13	Black Sabbath	Paranoid	4.21	21545.0	860.0
+14	Neutral Milk Hotel	In the Aeroplane Over the Sea	4.09	26229.0	1318.0
+15	Pixies	Doolittle	4.16	21392.0	789.0
+16	John Coltrane	A Love Supreme	4.32	14566.0	522.0
+17	Godspeed You Black Emperor!	Lift Yr. Skinny Fists Like Antennas to Heaven!	4.15	19352.0	701.0
+18	Joy Division	Unknown Pleasures	4.13	22914.0	704.0
+19	Radiohead	In Rainbows	4.05	25365.0	1032.0
+20	Nick Drake	Pink Moon	4.2	17737.0	666.0
+21	Talking Heads	Remain in Light	4.22	18736.0	557.0
+22	Bob Dylan	Highway 61 Revisited	4.23	17754.0	719.0
+23	The Doors	The Doors	4.15	19676.0	725.0
+24	The Smiths	The Queen Is Dead	4.15	20634.0	729.0
+25	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	4.17	27337.0	1371.0
+26	Pink Floyd	Animals	4.09	21615.0	780.0
+27	Arcade Fire	Funeral	4.03	25119.0	1064.0
+28	David Bowie	Low	4.14	17081.0	594.0
+29	Television	Marquee Moon	4.18	16542.0	649.0
+30	Nirvana	Nevermind	3.92	27071.0	1437.0
+31	Wu-Tang Clan	Enter the Wu-Tang (36 Chambers)	4.18	15502.0	651.0
+32	Nas	Illmatic	4.18	15498.0	717.0
+33	Mingus	The Black Saint and the Sinner Lady	4.35	10916.0	409.0
+34	The Beatles	The Beatles [White Album]	4.17	22352.0	1189.0
+35	Joy Division	Closer	4.11	18312.0	660.0
+36	King Crimson	Red	4.21	13014.0	489.0
+37	The Clash	London Calling	4.07	19732.0	909.0
+38	Radiohead	The Bends	3.91	28659.0	1044.0
+39	Bob Dylan	Blonde on Blonde	4.2	15057.0	600.0
+40	Kendrick Lamar	To Pimp a Butterfly	4.09	16499.0	401.0
+41	The Jimi Hendrix Experience	Are You Experienced	4.18	15395.0	630.0
+42	Sonic Youth	Daydream Nation	4.08	17942.0	595.0
+43	Sigur Rós	Ágætis byrjun	4.05	17624.0	618.0
+44	Slint	Spiderland	4.11	16886.0	613.0
+45	The Cure	Disintegration	4.14	16265.0	523.0
+46	Madvillain	Madvillainy	4.13	14314.0	374.0
+47	Metallica	Master of Puppets	4.01	20159.0	1101.0
+48	Godspeed You Black Emperor!	F♯A♯∞	4.11	14937.0	414.0
+49	Kanye West	My Beautiful Dark Twisted Fantasy	3.98	19576.0	809.0
+50	Kendrick Lamar	good kid, m.A.A.d city	4.09	16297.999999999998	400.0
+51	Led Zeppelin	Led Zeppelin	4.03	19280.0	756.0
+52	DJ Shadow	Endtroducing.....	4.11	15372.0	469.0
+53	Bob Dylan	Blood on the Tracks	4.2	13031.0	558.0
+54	Black Sabbath	Master of Reality	4.14	14781.0	548.0
+55	The Beatles	Rubber Soul	4.1	21043.0	902.0
+56	Metallica	Ride the Lightning	4.05	17309.0	819.0
+57	Miles Davis	In a Silent Way	4.23	9306.0	305.0
+58	Leonard Cohen	Songs of Leonard Cohen	4.18	11026.0	369.0
+59	Portishead	Dummy	4.11	17399.0	476.0
+60	Black Sabbath	Black Sabbath	4.1	15552.0	665.0
+61	Led Zeppelin	Led Zeppelin II	4.01	18622.0	737.0
+62	Neil Young	After the Gold Rush	4.15	12836.0	469.0
+63	Miles Davis	Bitches Brew	4.15	11194.0	401.0
+64	The Jimi Hendrix Experience	Electric Ladyland	4.17	12499.0	518.0
+65	Can	Tago Mago	4.11	14053.0	563.0
+66	Tom Waits	Rain Dogs	4.13	13150.0	420.0
+67	Bob Dylan	Bringing It All Back Home	4.18	11638.0	448.0
+68	Yes	Close to the Edge	4.12	12564.0	555.0
+69	Slowdive	Souvlaki	4.07	13906.0	383.0
+70	A Tribe Called Quest	The Low End Theory	4.09	12357.0	352.0
+71	Sufjan Stevens	Illinois	4.02	16137.0	523.0
+72	David Bowie	Hunky Dory	4.1	17159.0	609.0
+73	The Velvet Underground	White Light / White Heat	4.06	15388.0	576.0
+74	The Stooges	Fun House	4.14	11528.0	531.0
+75	Love	Forever Changes	4.09	12664.0	601.0
+76	Pink Floyd	Meddle	3.98	17106.0	646.0
+77	Björk	Homogenic	4.02	15034.0	369.0
+78	Frank Zappa	Hot Rats	4.08	11542.0	455.0
+79	The Rolling Stones	Sticky Fingers	4.09	11331.0	478.0
+80	The Who	Who's Next	4.04	13626.0	701.0
+81	Radiohead	Amnesiac	3.84	23697.0	689.0
+82	Nirvana	In utero	3.92	19583.0	707.0
+83	Pink Floyd	The Piper at the Gates of Dawn	3.94	18385.0	780.0
+84	The Zombies	Odessey and Oracle	4.12	10232.0	487.0
+85	The Velvet Underground	The Velvet Underground	4.12	13949.0	463.0
+86	David Bowie	Station to Station	4.08	11696.0	393.0
+87	Genius/GZA	Liquid Swords	4.12	10042.0	408.0
+88	Talk Talk	Spirit of Eden	4.07	10335.0	356.0
+89	Talk Talk	Laughing Stock	4.09	9846.0	337.0
+90	Can	Future Days	4.12	9654.0	283.0
+91	The Beatles	Magical Mystery Tour	4.08	17143.0	651.0
+92	Marvin Gaye	What's Going On	4.08	10620.0	424.0
+93	Pixies	Surfer Rosa	3.99	15516.0	465.0
+94	Nick Drake	Five Leaves Left	4.08	11255.0	357.0
+95	Aphex Twin	Selected Ambient Works 85-92	3.99	13406.0	337.0
+96	Kate Bush	Hounds of Love	4.1	10372.0	353.0
+97	Elliott Smith	Either / Or	4.07	12221.0	342.0
+98	Neil Young	On the Beach	4.14	9043.0	376.0
+99	The Rolling Stones	Let It Bleed	4.06	10925.0	456.0
+100	Eno	Another Green World	4.04	10984.0	367.0
+101	Slayer	Reign in Blood	3.99	12551.0	779.0
+102	Neil Young	Harvest	4.05	12083.0	395.0
+103	Smashing Pumpkins	Siamese Dream	3.96	14629.0	606.0
+104	Neil Young	Everybody Knows This Is Nowhere	4.11	9161.0	356.0
+105	Can	Ege Bamyasi	4.06	10411.0	293.0
+106	Pink Floyd	The Wall	3.8	23287.0	991.0
+107	Van Morrison	Astral Weeks	4.05	10010.0	506.0
+108	The Rolling Stones	Exile on Main St.	4.04	10743.0	523.0
+109	Belle and Sebastian	If You're Feeling Sinister	4.0	12340.0	427.0
+110	Massive Attack	Mezzanine	4.03	14975.0	404.0
+111	David Bowie	"""Heroes"""	3.97	13403.0	345.0
+112	Jeff Buckley	Grace	3.97	14644.0	698.0
+113	Megadeth	Rust in Peace	4.01	11534.0	647.0
+114	David Bowie	★ [Blackstar]	3.97	12277.0	370.0
+115	Depeche Mode	Violator	3.99	11812.0	409.0
+116	Led Zeppelin	Led Zeppelin III	3.91	16482.0	606.0
+117	Charles Mingus	Mingus Ah Um	4.13	7459.0	208.0
+118	Stevie Wonder	Innervisions	4.11	7460.0	294.0
+119	Interpol	Turn On the Bright Lights	3.94	16478.0	614.0
+120	Wilco	Yankee Hotel Foxtrot	3.93	13941.0	514.0
+121	Led Zeppelin	Physical Graffiti	3.99	13162.0	579.0
+122	The Smiths	Hatful of Hollow	4.14	7304.0	152.0
+123	Boards of Canada	Music Has the Right to Children	3.93	12657.0	376.0
+124	The Kinks	The Kinks Are the Village Green Preservation Society	4.12	8721.0	398.0
+125	Led Zeppelin	Houses of the Holy	3.96	13801.0	566.0
+126	Pavement	Crooked Rain, Crooked Rain	4.0	11773.0	392.0
+127	Genesis	Selling England by the Pound	4.03	9548.0	403.0
+128	Swans	Soundtracks for the Blind	4.06	7845.0	200.0
+129	John Coltrane	Giant Steps	4.11	7390.0	200.0
+130	Modest Mouse	The Lonesome Crowded West	4.05	10045.0	294.0
+131	A Tribe Called Quest	Midnight Marauders	4.09	8199.0	210.0
+132	Bob Dylan	The Freewheelin' Bob Dylan	4.02	11157.0	408.0
+133	Iggy and The Stooges	Raw Power	4.05	10347.0	454.0
+134	Leonard Cohen	Songs of Love and Hate	4.07	7919.0	214.0
+135	John Coltrane	My Favorite Things	4.12	6486.0	169.0
+136	Stevie Wonder	Songs in the Key of Life	4.11	6220.0	271.0
+137	Death	Symbolic	4.04	7825.0	259.0
+138	Tool	Lateralus	3.93	13546.0	640.0
+139	OutKast	Aquemini	4.06	7497.0	209.0
+140	Kraftwerk	Die Mensch-Maschine	3.99	9509.0	261.0
+141	Talking Heads	Fear of Music	4.02	10737.0	284.0
+142	Iron Maiden	Powerslave	3.99	10382.0	416.0
+143	Creedence Clearwater Revival	Cosmo's Factory	4.08	6952.0	286.0
+144	Nine Inch Nails	The Downward Spiral	3.95	13211.0	480.0
+145	J Dilla	Donuts	3.99	8744.0	292.0
+146	King Crimson	Larks' Tongues in Aspic	4.02	8949.0	317.0
+147	Modest Mouse	The Moon & Antarctica	3.97	11617.0	339.0
+148	The Stone Roses	The Stone Roses	3.99	11414.0	576.0
+149	Sigur Rós	( )	3.92	12249.0	397.0
+150	Joni Mitchell	Blue	4.02	8655.0	342.0
+151	Sufjan Stevens	Carrie & Lowell	3.98	10382.0	250.0
+152	Jethro Tull	Thick as a Brick	4.03	7796.0	310.0
+153	Bruce Springsteen	Born to Run	3.98	9259.0	428.0
+154	The Jimi Hendrix Experience	Axis: Bold as Love	4.02	10131.0	382.0
+155	Tool	Ænima	3.92	12690.0	591.0
+156	Kraftwerk	Trans Europa Express	3.99	8659.0	240.0
+157	Curtis Mayfield	Superfly	4.11	5640.0	191.0
+158	The Doors	Strange Days	3.97	10983.0	342.0
+159	Tom Waits	Swordfishtrombones	4.04	8663.0	218.0
+160	Prince and The Revolution	Purple Rain	4.06	9353.0	378.0
+161	Iron Maiden	The Number of the Beast	3.94	11921.0	547.0
+162	The Cure	Pornography	3.98	11135.0	319.0
+163	Opeth	Blackwater Park	3.94	10654.0	449.0
+164	Björk	Vespertine	3.97	10651.0	282.0
+165	The Flaming Lips	The Soft Bulletin	3.9	12849.0	446.0
+166	Black Sabbath	Sabbath Bloody Sabbath	4.0	10285.0	385.0
+167	The Rolling Stones	Beggars Banquet	4.03	9441.0	377.0
+168	Rage Against the Machine	Rage Against the Machine	3.89	13574.0	582.0
+169	The Microphones	The Glow Pt. 2	4.0	10058.0	250.0
+170	Deep Purple	Machine Head	3.99	8785.0	397.0
+171	Nick Drake	Bryter Layter	3.98	9894.0	319.0
+172	John Coltrane	Blue Train	4.05	7179.0	172.0
+173	Yes	Fragile	3.96	10114.0	389.0
+174	Steve Reich	Music for 18 Musicians	4.07	5098.0	169.0
+175	Wire	Pink Flag	3.98	9932.0	334.0
+176	Fleetwood Mac	Rumours	3.98	10820.0	475.0
+177	Kanye West	The College Dropout	3.88	13330.0	374.0
+178	Joanna Newsom	Ys	3.92	9882.0	474.0
+179	The Avalanches	Since I Left You	3.92	10714.0	309.0
+180	Gang of Four	Entertainment!	3.98	9079.0	312.0
+181	Built to Spill	Perfect From Now On	4.01	7684.0	190.0
+182	Danny Brown	Atrocity Exhibition	3.96	8784.0	165.0
+183	Pharoah Sanders	Karma	4.09	4590.0	178.0
+184	Kyuss	Kyuss [Welcome to Sky Valley]	3.98	8788.0	293.0
+185	Cocteau Twins	Heaven or Las Vegas	3.98	8440.0	238.0
+186	Metallica	...And Justice for All	3.83	15157.0	772.0
+187	R.E.M.	Murmur	3.95	9803.0	377.0
+188	The Smashing Pumpkins	Mellon Collie and the Infinite Sadness	3.87	13221.0	647.0
+189	Mobb Deep	The Infamous	4.05	5888.0	251.0
+190	Eric Dolphy	Out to Lunch	4.03	5718.0	173.0
+191	Weezer	Weezer [Blue Album]	3.92	15752.0	614.0
+192	The Notorious B.I.G.	Ready to Die	4.0	7783.0	312.0
+193	Dead Kennedys	Fresh Fruit for Rotting Vegetables	3.99	9141.0	334.0
+194	Queens of the Stone Age	Songs for the Deaf	3.9	14147.0	411.0
+195	Alice in Chains	Dirt	3.91	11655.0	568.0
+196	Eno	Here Come the Warm Jets	3.97	8164.999999999999	280.0
+197	Michael Jackson	Thriller	3.9	10528.0	515.0
+198	Angelo Badalamenti	Soundtrack From Twin Peaks	4.1	5037.0	112.0
+199	Ennio Morricone	Il buono, il brutto, il cattivo	4.14	3184.0	103.0
+200	Radiohead	Hail to the Thief	3.7	21928.0	727.0
+201	Pearl Jam	Ten	3.82	14477.0	684.0
+202	Iron Maiden	Seventh Son of a Seventh Son	3.97	8471.0	342.0
+203	Beastie Boys	Paul's Boutique	3.93	8960.0	319.0
+204	Public Enemy	It Takes a Nation of Millions to Hold Us Back	3.95	8265.0	312.0
+205	Jethro Tull	Aqualung	3.94	9053.0	342.0
+206	Funkadelic	Maggot Brain	3.97	7847.0	266.0
+207	Portishead	Third	3.86	10656.0	459.0
+208	Curtis Mayfield	Curtis	4.07	4275.0	124.0
+209	The Strokes	Is This It	3.85	17121.0	710.0
+210	The Sonic Youth	Sister	3.95	9563.0	239.0
+211	Ornette Coleman	The Shape of Jazz to Come	4.02	5401.0	167.0
+212	Berliner Philharmoniker	9 Symphonien	4.21	887.0	43.0
+213	Van Morrison	Moondance	4.01	6792.0	281.0
+214	Judas Priest	Painkiller	3.99	6739.0	345.0
+215	Black Sabbath	Vol 4	3.95	10029.0	362.0
+216	Lou Reed	Transformer	3.96	11607.0	346.0
+217	Comus	First Utterance	3.99	6043.0	273.0
+218	At the Drive-In	Relationship of Command	3.9	10478.0	354.0
+219	OutKast	ATLiens	4.02	6025.0	160.0
+220	Rush	Moving Pictures	3.91	9359.0	370.0
+221	George Harrison	All Things Must Pass	4.06	7056.0	378.0
+222	Fishmans	Long Season	4.05	4977.0	107.0
+223	Queen	A Night at the Opera	3.89	10109.0	484.0
+224	Genesis	Foxtrot	3.98	7144.0	291.0
+225	Robert Wyatt	Rock Bottom	3.96	6480.0	267.0
+226	Boards of Canada	Geogaddi	3.91	9264.0	218.0
+227	Cocteau Twins	Treasure	3.96	8821.0	242.0
+228	Otis Redding	Otis Blue: Otis Redding Sings Soul	4.05	4461.0	143.0
+229	Burzum	Filosofem	3.92	8393.0	267.0
+230	Pavement	Slanted and Enchanted	3.9	11287.0	379.0
+231	Charlie Mingus	Blues & Roots	4.09	3811.0	130.0
+232	R.E.M.	Automatic for the People	3.93	11778.0	453.0
+233	The Replacements	Let It Be	3.96	7295.0	273.0
+234	Neil Young	Tonight's the Night	4.01	6409.0	227.0
+235	Swans	To Be Kind	3.88	9202.0	285.0
+236	Radiohead	A Moon Shaped Pool	3.82	13089.0	357.0
+237	Björk	Post	3.86	12139.0	269.0
+238	The Clash	The Clash	3.92	9774.0	387.0
+239	Swans	The Seer	3.87	9331.0	335.0
+240	Deep Purple	Deep Purple in Rock	3.96	7176.0	299.0
+241	The Doors	L.A. Woman	3.92	10154.0	367.0
+242	Wire	Chairs Missing	3.99	6559.0	193.0
+243	Captain Beefheart and His Magic Band	Safe as Milk	3.95	8261.0	293.0
+244	Milton Nascimento	Clube da Esquina	4.07	3270.0	104.0
+245	Patti Smith	Horses	3.94	8648.0	286.0
+246	Animal Collective	Merriweather Post Pavilion	3.69	17208.0	898.0
+247	Tom Waits	Bone Machine	4.01	6383.0	201.0
+248	The Flaming Lips	Yoshimi Battles the Pink Robots	3.82	13322.0	430.0
+249	Opeth	Still Life	3.95	7368.0	260.0
+250	Kanye West	Late Registration	3.85	12037.0	253.0
+251	Death Grips	The Money Store	3.82	13865.0	335.0
+252	Miles Davis	A Tribute to Jack Johnson	4.05	3972.0	157.0
+253	Alice Coltrane featuring Pharoah Sanders	Journey in Satchidananda	4.06	3579.0	84.0
+254	T. Rex	Electric Warrior	3.96	6740.0	275.0
+255	Dinosaur	You're Living All Over Me	3.9	9347.0	253.0
+256	The Smiths	The Smiths	3.86	11806.0	345.0
+257	Nick Cave and The Bad Seeds	Let Love In	3.97	7112.0	145.0
+258	Ramones	Ramones	3.88	9327.0	480.0
+259	Staatsorchester Stuttgart	Tabula rasa	4.03	3663.0	104.0
+260	The Dave Brubeck Quartet	Time Out	3.97	5834.0	196.0
+261	Metallica	Kill 'Em All	3.78	14585.0	718.0
+262	Electric Wizard	Dopethrone	3.93	7816.0	287.0
+263	The Kinks	Arthur or the Decline and Fall of the British Empire	4.04	5146.0	204.0
+264	Genesis	The Lamb Lies Down on Broadway	3.97	6271.0	295.0
+265	Yo La Tengo	I Can Hear the Heart Beating as One	3.93	8213.0	228.0
+266	Kate Bush	The Dreaming	3.98	5936.0	227.0
+267	Daft Punk	Discovery	3.79	12944.0	345.0
+268	Elliott Smith	XO	3.94	7961.0	191.0
+269	Art Blakey and The Jazz Messengers	Art Blakey and The Jazz Messengers [Moanin']	4.05	3727.0	115.0
+270	Death	Human	3.95	6445.0	206.0
+271	Fela Kuti	Expensive Shit	4.02	3797.0	92.0
+272	Converge	Jane Doe	3.89	7623.0	326.0
+273	Rainbow	Rising	3.97	5174.0	256.0
+274	This Heat	Deceit	3.96	5765.0	172.0
+275	Berliner Philharmoniker	Symphony No. 9	4.11	524.0	6.0
+276	Weezer	Pinkerton	3.88	13052.0	518.0
+277	Brian Eno	Before and After Science	3.95	6247.0	212.0
+278	John Lennon	John Lennon / Plastic Ono Band	3.98	7602.0	378.0
+279	Herbie Hancock	Head Hunters	3.94	6613.0	202.0
+280	The Mars Volta	De-Loused in the Comatorium	3.8	11210.0	447.0
+281	Faith No More	Angel Dust	3.89	8242.0	318.0
+282	Crosby, Stills, Nash & Young	Déjà vu	3.97	5489.0	222.0
+283	Prince	"Sign ""☮"" the Times"	4.02	5235.0	223.0
+284	Pulp	Different Class	3.94	7714.0	258.0
+285	The Stooges	The Stooges	3.9	9027.0	308.0
+286	Simon and Garfunkel	Bridge Over Troubled Water	3.97	7401.0	274.0
+287	Soundgarden	Superunknown	3.85	9708.0	369.0
+288	Hüsker Dü	Zen Arcade	3.92	7622.0	248.0
+289	The Who	Quadrophenia	3.94	6734.0	332.0
+290	The National	Boxer	3.85	9979.0	334.0
+291	Minutemen	Double Nickels on the Dime	3.93	7104.0	280.0
+292	The Jesus and Mary Chain	Psychocandy	3.82	10713.0	339.0
+293	Soft Machine	Third	3.94	5132.0	195.0
+294	Red House Painters	Down Colorful Hill	3.92	6089.0	189.0
+295	Serge Gainsbourg	Histoire de Melody Nelson	3.93	5716.0	201.0
+296	Agalloch	Ashes Against the Grain	3.92	6173.0	216.0
+297	Ennio Morricone	C'era una volta il West	4.08	1659.0	51.0
+298	Talking Heads	More Songs About Buildings and Food	3.91	8468.0	213.0
+299	King Crimson	Discipline	3.91	7366.0	237.0
+300	LCD Soundsystem	Sound of Silver	3.84	10301.0	284.0
+301	Wire	154	3.97	5344.0	153.0
+302	Agalloch	The Mantle	3.86	7499.0	255.0
+303	Isis	Panopticon	3.9	6472.0	202.0
+304	Camel	Mirage	3.96	5420.0	186.0
+305	Slayer	Seasons in the Abyss	3.91	7027.0	252.0
+306	Ramones	Rocket to Russia	3.94	6148.0	216.0
+307	John Coltrane	Olé Coltrane	4.04	2882.0	90.0
+308	Unwound	Leaves Turn Inside You	3.94	5230.0	138.0
+309	Novos Baianos	Acabou chorare	4.05	2117.0	55.0
+310	Sly & The Family Stone	There's a Riot Goin' On	3.95	4954.0	193.0
+311	Fela Kuti	Zombie	4.02	3016.0	77.0
+312	Townes Van Zandt	Townes Van Zandt	4.0	3326.0	69.0
+313	The Kinks	Something Else by The Kinks	3.98	5462.0	239.0
+314	John Coltrane	Ascension	3.99	3938.0	144.0
+315	Fugazi	Repeater	3.88	7949.0	156.0
+316	Arcade Fire	Neon Bible	3.7	15621.0	582.0
+317	The Modern Lovers	The Modern Lovers	3.93	5610.0	224.0
+318	Coil	The Ape of Naples	3.93	5344.0	123.0
+319	Faust	Faust IV	3.92	6019.0	136.0
+320	Burzum	Hvis lyset tar oss	3.88	6613.0	244.0
+321	Burial	Untrue	3.83	10975.0	350.0
+322	Cannonball Adderley	Somethin' Else	3.98	3628.0	130.0
+323	Jorge Ben	A Tábua de Esmeralda	4.03	2290.0	77.0
+324	Van der Graaf Generator	Pawn Hearts	3.94	4320.0	177.0
+325	The Magnetic Fields	69 Love Songs	3.88	6511.0	281.0
+326	Sly and The Family Stone	Stand!	3.98	4097.0	149.0
+327	Vince Guaraldi	A Charlie Brown Christmas	4.01	2933.0	144.0
+328	Mastodon	Crack the Skye	3.84	7769.0	335.0
+329	Iron Maiden	Iron Maiden	3.87	8654.0	367.0
+330	Spiritualized®	Ladies and Gentlemen We Are Floating in Space	3.83	9179.0	234.0
+331	Black Sabbath	Heaven and Hell	3.88	7257.0	313.0
+332	Mos Def	Black on Both Sides	3.93	5417.0	179.0
+333	Ulver	Bergtatt: Et eeventyr i 5 capitler	3.91	6387.0	160.0
+334	Artur Rubinstein	The Nocturnes	4.06	1124.0	28.0
+335	Sonny Rollins	Saxophone Colossus	3.98	3408.0	100.0
+336	Death	The Sound of Perseverance	3.9	6192.0	236.0
+337	Captain Beefheart & His Magic Band	Trout Mask Replica	3.74	10176.0	757.0
+338	Chef Raekwon	Only Built 4 Cuban Linx...	3.93	5202.0	228.0
+339	Bruce Springsteen	Darkness on the Edge of Town	3.94	5671.0	205.0
+340	Have a Nice Life	Deathconsciousness	3.85	8638.0	285.0
+341	Panda Bear	Person Pitch	3.81	9301.0	369.0
+342	Yes	The Yes Album	3.91	6698.0	264.0
+343	Violent Femmes	Violent Femmes	3.87	8624.0	303.0
+344	Kraftwerk	Computerwelt	3.91	5892.0	161.0
+345	Elvis Costello	This Year's Model	3.93	6772.0	257.0
+346	Wiener Philharmoniker	Symphonie Nr.5	4.09	460.0	6.0
+347	Sonic Youth	EVOL	3.87	8159.000000000001	203.0
+348	Roxy Music	For Your Pleasure	3.92	5620.0	205.0
+349	NEU!	NEU!	3.85	7576.0	236.0
+350	Guided by Voices	Bee Thousand	3.88	6418.0	242.0
+351	Wipers	Youth of America	3.97	4235.0	124.0
+352	The Band	The Band	3.95	5381.0	252.0
+353	David Bowie	Aladdin Sane	3.86	11021.0	371.0
+354	Animal Collective	Strawberry Jam	3.75	11953.0	382.0
+355	Bob Marley	Exodus	3.96	4585.0	157.0
+356	New York Philharmonic	Le Sacre du printemps	4.02	1162.0	31.0
+357	Stan Getz & João Gilberto featuring Antônio Carlos Jobim	Getz / Gilberto	3.96	4426.0	147.0
+358	Pere Ubu	The Modern Dance	3.88	6151.0	213.0
+359	Talking Heads	Talking Heads: 77	3.83	9721.0	244.0
+360	NEU!	NEU! '75	3.94	4854.0	122.0
+361	Scott Engel	Scott 4	3.93	4632.0	152.0
+362	The John Coltrane Quartet	Africa / Brass	4.02	2446.0	52.0
+363	Chico Buarque	Construção	3.99	2583.0	75.0
+364	Gang Starr	Moment of Truth	3.99	3070.0	113.0
+365	Santana	Abraxas	3.94	4745.0	181.0
+366	Low	I Could Live in Hope	3.9	5520.0	136.0
+367	Death	Individual Thought Patterns	3.92	5297.0	150.0
+368	Nico	Desertshore	3.9	4892.0	141.0
+369	Charles Mingus	Mingus Mingus Mingus Mingus Mingus	4.01	2960.0	75.0
+370	Morbid Angel	Altars of Madness	3.91	4994.0	157.0
+371	Dead Can Dance	Within the Realm of a Dying Sun	3.9	5121.0	145.0
+372	Emperor	In the Nightside Eclipse	3.9	5482.0	179.0
+373	Eno	Taking Tiger Mountain (By Strategy)	3.92	5713.0	168.0
+374	Organized Konfusion	Stress: The Extinction Agenda	3.99	2535.0	97.0
+375	Red House Painters	Red House Painters [Rollercoaster]	3.93	4514.0	135.0
+376	Judas Priest	Sad Wings of Destiny	3.91	5055.0	250.0
+377	Bruce Springsteen	Nebraska	3.88	6640.0	270.0
+378	The Horace Silver Quintet	Song for My Father	4.02	2074.0	54.0
+379	The Chameleons	Script of the Bridge	3.92	4535.0	178.0
+380	PJ Harvey	To Bring You My Love	3.89	6508.0	171.0
+381	Opeth	Ghost Reveries	3.87	7033.0	252.0
+382	Neil Young	Zuma	3.93	5405.0	187.0
+383	Creedence Clearwater Revival	Willy and the Poor Boys	3.95	4410.0	164.0
+384	Neurosis	Through Silver in Blood	3.92	4584.0	152.0
+385	Bob Dylan	Desire	3.91	6794.0	275.0
+386	Dissection	Storm of the Light's Bane	3.93	4476.0	141.0
+387	Motörhead	Ace of Spades	3.9	6040.0	220.0
+388	Built to Spill	Keep It Like a Secret	3.91	5840.0	140.0
+389	Dio	Holy Diver	3.91	5483.0	257.0
+390	Broken Social Scene	You Forgot It in People	3.85	7658.0	282.0
+391	Beck!	Odelay	3.76	11409.0	389.0
+392	Mahavishnu Orchestra	The Inner Mounting Flame	3.93	4152.0	164.0
+393	The Mothers of Invention	Freak Out!	3.85	7762.0	297.0
+394	Caravan	In the Land of Grey and Pink	3.93	4256.0	203.0
+395	Sonic Youth	Goo	3.8	10244.0	233.0
+396	Mercyful Fate	Don't Break the Oath	3.93	3699.0	159.0
+397	The Smiths	Meat Is Murder	3.78	11191.0	320.0
+398	Porcupine Tree	In Absentia	3.82	8103.0	323.0
+399	Sun Ra	Lanquidity	3.98	2649.0	59.0
+400	Sigur Rós	Takk...	3.77	10396.0	290.0
+401	Iron Maiden	Piece of Mind	3.84	8255.0	312.0
+402	Mastodon	Leviathan	3.85	8071.999999999999	219.0
+403	Isaac Hayes	Hot Buttered Soul	3.96	3291.0	149.0
+404	The Microphones	Mount Eerie	3.91	4499.0	92.0
+405	Slayer	South of Heaven	3.88	6651.0	232.0
+406	Suicide	Suicide	3.85	7780.0	309.0
+407	Parliament	Mothership Connection	3.94	3701.0	123.0
+408	Megadeth	Peace Sells... But Who's Buying?	3.85	7922.0	372.0
+409	Miles Davis	On the Corner	3.94	4134.0	160.0
+410	Komeda Quintet	Astigmatic	3.97	2244.0	51.0
+411	Miles Davis	Sketches of Spain	3.92	5986.0	172.0
+412	Atheist	Unquestionable Presence	3.88	4883.0	160.0
+413	Refused	The Shape of Punk to Come	3.86	6543.0	245.0
+414	Aphex Twin	Richard D. James Album	3.78	9366.0	188.0
+415	Jefferson Airplane	Surrealistic Pillow	3.85	7237.0	263.0
+416	Glenn Gould	The Goldberg Variations	4.0	1463.0	45.0
+417	Mr. Bungle	California	3.86	5667.0	230.0
+418	Iron Maiden	Somewhere in Time	3.86	7021.0	264.0
+419	Tom Waits	Orphans: Brawlers, Bawlers & Bastards	3.97	3341.0	141.0
+420	Emperor	Anthems to the Welkin at Dusk	3.9	4383.0	145.0
+421	Deltron 3030	Deltron 3030	3.87	5872.0	189.0
+422	The Who	Tommy	3.81	8545.0	381.0
+423	Stevie Wonder	Talking Book	3.93	4356.0	155.0
+424	Peter Gabriel	Peter Gabriel	3.92	4394.0	172.0
+425	John Williams	Star Wars: The Empire Strikes Back	4.0	1157.0	20.0
+426	Motörhead	Overkill	3.93	4190.0	161.0
+427	Akira Yamaoka	Silent Hill 2	3.98	2163.0	78.0
+428	My Bloody Valentine	Isn't Anything	3.76	11047.0	271.0
+429	Lou Reed	Berlin	3.86	6135.0	239.0
+430	Gene Clark	No Other	3.97	2124.0	120.0
+431	Boris	Boris at Last -Feedbacker-	3.87	5289.0	151.0
+432	Fleet Foxes	Fleet Foxes	3.72	11206.0	449.0
+433	Creedence Clearwater Revival	Green River	3.93	4611.0	153.0
+434	Rush	Hemispheres	3.89	5249.0	205.0
+435	Iggy Pop	Lust for Life	3.85	6726.0	171.0
+436	Van der Graaf Generator	Godbluff	3.95	2767.0	100.0
+437	Aphex Twin	Selected Ambient Works Volume II	3.83	7005.0	219.0
+438	Judas Priest	Screaming for Vengeance	3.9	5381.0	220.0
+439	Boredoms	Vision Creation Newsun	3.85	5982.0	186.0
+440	Swans	White Light From the Mouth of Infinity	3.86	6099.0	107.0
+441	Genesis	Nursery Cryme	3.89	5777.0	217.0
+442	Kyuss	Blues for the Red Sun	3.88	6175.0	176.0
+443	Joanna Newsom	Have One on Me	3.84	5987.0	316.0
+444	Mercyful Fate	Melissa	3.92	3528.0	127.0
+445	Fugazi	The Argument	3.89	5402.0	137.0
+446	Amon Düül II	Yeti	3.89	5177.0	173.0
+447	The Fall	This Nation's Saving Grace	3.9	4876.0	151.0
+448	Columbia Symphony Orchestra	Stravinsky Conducts Le Sacre du printemps	4.03	423.0	4.0
+449	Glenn Gould	The Goldberg Variations	3.97	1565.0	45.0
+450	Nick Cave and The Bad Seeds	Tender Prey	3.9	5299.0	141.0
+451	Miles Davis	Get Up With It	3.97	2202.0	100.0
+452	Björk	Debut	3.73	11641.0	290.0
+453	Brand New	The Devil and God Are Raging Inside Me	3.79	8196.0	293.0
+454	The Beatles	Help!	3.76	13029.0	459.0
+455	Thelonious Monk	Brilliant Corners	3.93	3310.0	87.0
+456	Caetano Veloso	Transa	3.96	2500.0	64.0
+457	Portishead	Portishead	3.85	8647.0	170.0
+458	Opeth	Damnation	3.83	7546.0	270.0
+459	John Fahey	Fare Forward Voyagers (Soldier's Choice)	3.96	2258.0	62.0
+460	Duke Ellington	Duke Ellington's Far East Suite	3.99	1798.0	54.0
+461	Van der Graaf Generator	H to He Who Am the Only One	3.95	3049.0	106.0
+462	The Smiths	Strangeways, Here We Come	3.81	9041.0	237.0
+463	Run the Jewels	Run the Jewels 2	3.77	8428.0	167.0
+464	MF DOOM	Mm.. Food	3.87	6178.0	133.0
+465	A Tribe Called Quest	We got it from Here... Thank You 4 Your service	3.88	5363.0	100.0
+466	D'Angelo	Voodoo	3.91	3845.0	114.0
+467	Glenn Branca	The Ascension	3.88	4927.0	137.0
+468	Thin Lizzy	Jailbreak	3.92	3877.0	192.0
+469	Boris	Flood	3.86	5116.0	140.0
+470	Elvis Costello	My Aim Is True	3.85	6030.0	226.0
+471	John Williams	Star Wars	3.99	1378.0	35.0
+472	Aretha Franklin	Lady Soul	3.96	2287.0	69.0
+473	Frank Ocean	Blonde	3.8	8315.0	191.0
+474	PJ Harvey	Let England Shake	3.8	7508.0	293.0
+475	Animal Collective	Feels	3.75	10573.0	308.0
+476	Townes Van Zandt	Our Mother the Mountain	3.96	2463.0	63.0
+477	American Football	American Football	3.76	8793.0	221.0
+478	Tom Waits	Closing Time	3.85	6185.0	214.0
+479	Arcade Fire	The Suburbs	3.66	13371.0	474.0
+480	New Order	Power, Corruption & Lies	3.83	8188.000000000001	198.0
+481	Aretha Franklin	I Never Loved a Man the Way I Love You	3.94	2918.0	109.0
+482	Jackson C. Frank	Jackson C. Frank	3.94	2858.0	75.0
+483	PiL	Metal Box	3.86	5519.0	215.0
+484	Sepultura	Beneath the Remains	3.89	4385.0	139.0
+485	The National	High Violet	3.76	8781.0	387.0
+486	The Beatles	A Hard Day's Night	3.76	12986.0	488.0
+487	Darkthrone	A Blaze in the Northern Sky	3.88	4765.0	146.0
+488	The Replacements	Tim	3.93	4764.0	178.0
+489	Deftones	White Pony	3.79	7710.0	268.0
+490	Jaÿ-Z	Reasonable Doubt	3.87	5173.0	251.0
+491	Brian Eno	Ambient 1: Music for Airports	3.76	8023.0	277.0
+492	Johnny Cash	Unearthed	4.01	718.0	20.0
+493	Stars of the Lid	The Tired Sounds Of	3.86	4529.0	110.0
+494	Bob Marley	Catch a Fire	3.93	3607.0	135.0
+495	Ennio Morricone	C'era una volta in America	4.03	892.0	19.0
+496	Sun Kil Moon	Ghosts of the Great Highway	3.91	4034.0	110.0
+497	Queensrÿche	Operation: Mindcrime	3.84	4836.0	263.0
+498	Steely Dan	Aja	3.89	5345.0	262.0
+499	Public Enemy	Fear of a Black Planet	3.87	4883.0	183.0
+500	The Mothers of Invention	We're Only in It for the Money	3.85	6144.0	268.0
+501	Candlemass	Epicus Doomicus Metallicus	3.87	4083.9999999999995	126.0
+502	The Roots	Things Fall Apart	3.89	4672.0	113.0
+503	Popol Vuh	Hosianna Mantra	3.87	4082.0	100.0
+504	Big L	Lifestylez ov da Poor & Dangerous	3.91	3854.0	192.0
+505	The National	Alligator	3.83	7150.0	210.0
+506	Godspeed You! Black Emperor	Yanqui U.X.O.	3.77	8706.0	222.0
+507	Iggy Pop	The Idiot	3.86	6462.0	197.0
+508	Frank Zappa	One Size Fits All	3.92	3454.0	120.0
+509	John Cale	Paris 1919	3.88	4383.0	157.0
+510	Nick Cave & The Bad Seeds	The Good Son	3.88	4729.0	109.0
+511	Paul McCartney	Ram	3.93	4343.0	255.0
+512	Bon Iver	For Emma, Forever Ago	3.73	10342.0	344.0
+513	植松伸夫 [Nobuo Uematsu]	ファイナルファンタジーVI (Final Fantasy VI)	4.01	746.0	24.0
+514	Magnolia Electric Co.	The Magnolia Electric Co.	3.92	2840.0	73.0
+515	Isis	Oceanic	3.86	5203.0	133.0
+516	AIR	Moon Safari	3.74	10485.0	371.0
+517	Thelonious Monk Septet	Monk's Music	3.97	1769.0	53.0
+518	The Dismemberment Plan	Emergency & I	3.83	5780.0	160.0
+519	Mayhem	De mysteriis dom Sathanas	3.83	5503.0	226.0
+520	London Sinfonietta	Symphony No. 3	3.92	1759.0	58.0
+521	Bonnie 'Prince' Billy	I See a Darkness	3.85	5575.0	181.0
+522	The Pharcyde	Bizarre Ride II the Pharcyde	3.9	3659.0	125.0
+523	Dr. Dre	The Chronic	3.81	6835.0	305.0
+524	Charles Mingus	Let My Children Hear Music	3.97	2147.0	52.0
+525	Snoop Doggy Dogg	Doggystyle	3.83	5559.0	236.0
+526	Pavement	Wowee Zowee	3.85	6218.0	216.0
+527	Fairport Convention	Liege & Lief	3.92	3145.0	134.0
+528	AC/DC	Back in Black	3.66	11760.0	792.0
+529	Elliott Smith	Elliott Smith	3.88	6418.0	151.0
+530	Black Star	Mos Def & Talib Kweli Are Black Star	3.88	4280.0	158.0
+531	Talk Talk	The Colour of Spring	3.84	5563.0	160.0
+532	Nina Simone	Pastel Blues	3.95	2266.0	50.0
+533	PJ Harvey	Stories From the City, Stories From the Sea	3.85	6692.0	191.0
+534	XTC	Skylarking	3.87	5546.0	237.0
+535	Flying Lotus	Cosmogramma	3.73	8851.0	195.0
+536	The Velvet Underground	Loaded	3.8	10639.0	357.0
+537	Duke Ellington	Money Jungle	3.93	2535.0	73.0
+538	Nine Inch Nails	The Fragile	3.84	7311.0	251.0
+539	The White Stripes	Elephant	3.75	12601.0	442.0
+540	Cream	Disraeli Gears	3.8	7710.0	336.0
+541	T. Rex	The Slider	3.91	3442.0	156.0
+542	Cannibal Ox	The Cold Vein	3.85	4585.0	166.0
+543	U2	The Joshua Tree	3.77	10865.0	548.0
+544	Steve Reich and Musicians	Music for 18 Musicians	3.96	1304.0	40.0
+545	The Feelies	Crazy Rhythms	3.85	5048.0	143.0
+546	Edge of Sanity	Crimson	3.88	3399.0	134.0
+547	Richard & Linda Thompson	I Want to See the Bright Lights Tonight	3.92	2454.0	108.0
+548	Tim Hecker	Harmony in Ultraviolet	3.86	4452.0	99.0
+549	Berliner Philharmoniker	"Symphony No. 9 ""Choral"""	4.03	249.0	8.0
+550	D'Angelo and The Vanguard	Black Messiah	3.84	5028.0	115.0
+551	Marvin Gaye	Let's Get It On	3.91	3715.0	121.0
+552	Queens of the Stone Age	Rated R	3.81	8809.0	235.0
+553	UGK	Ridin' Dirty	3.92	2338.0	85.0
+554	Howard Shore	The Lord of the Rings: The Fellowship of the Ring	3.97	1574.0	34.0
+555	Immortal	At the Heart of Winter	3.88	3487.0	107.0
+556	Os Mutantes	Os Mutantes	3.86	4573.0	172.0
+557	Lynyrd Skynyrd	(pronounced 'lĕh-'nérd 'skin-'nérd)	3.88	4075.0	192.0
+558	Big Star	3rd	3.89	4179.0	196.0
+559	Rush	2112	3.78	7630.0	299.0
+560	Herbie Hancock	Empyrean Isles	3.94	2376.0	66.0
+561	光田康典 [Yasunori Mitsuda]	Chrono Trigger: Original Sound Version	4.0	852.0	32.0
+562	The Fall	Hex Enduction Hour	3.88	4213.0	145.0
+563	Miles Davis	'Round About Midnight	3.91	3679.0	91.0
+564	Black Sabbath	Sabotage	3.82	7059.0	276.0
+565	Ride	Nowhere	3.76	7735.0	202.0
+566	Ween	The Mollusk	3.85	5439.0	173.0
+567	Tom Waits	Mule Variations	3.89	4769.0	138.0
+568	植松伸夫 [Nobuo Uematsu]	Final Fantasy VII Original Sound Track	3.97	1166.0	65.0
+569	Guns n' Roses	Appetite for Destruction	3.63	12202.0	795.0
+570	The Congos	Heart of the Congos	3.94	2430.0	100.0
+571	Judas Priest	Stained Class	3.89	3956.0	184.0
+572	Wishbone Ash	Argus	3.89	3221.0	183.0
+573	Herbie Hancock	Maiden Voyage	3.92	2858.0	67.0
+574	Rush	Permanent Waves	3.85	5196.0	203.0
+575	Prince	1999	3.88	4445.0	167.0
+576	Devo	Q: Are We Not Men? A: We Are Devo!	3.81	6663.0	263.0
+577	The Thelonious Monk Quartet	Monk's Dream	3.94	2324.0	55.0
+578	Belle and Sebastian	Tigermilk	3.82	6584.0	173.0
+579	Fela Kuti	Roforofo Fight	3.96	1634.0	40.0
+580	The Cure	Seventeen Seconds	3.82	7439.0	215.0
+581	Immolation	Close to a World Below	3.9	2393.0	77.0
+582	Wayne Shorter	Speak No Evil	3.91	2609.0	75.0
+583	The Ornette Coleman Double Quartet	Free Jazz	3.91	2791.0	95.0
+584	Gorguts	Obscura	3.88	3675.0	186.0
+585	Sex Pistols	Never Mind the Bollocks Here's the Sex Pistols	3.66	11411.0	708.0
+586	Yo La Tengo	And Then Nothing Turned Itself Inside-Out	3.85	5491.0	157.0
+587	Exuma	Exuma	3.87	3809.0	103.0
+588	Takács Quartet	The 6 String Quartets	4.01	496.0	15.0
+589	Opeth	My Arms, Your Hearse	3.85	5109.0	148.0
+590	Pierre Fournier	Sechs Suiten für Violoncello Solo BWV 1007-1012	4.02	476.0	9.0
+591	Lee Morgan	The Sidewinder	3.95	2001.9999999999998	62.0
+592	Depeche Mode	Music for the Masses	3.84	5749.0	173.0
+593	Depeche Mode	Black Celebration	3.84	5313.0	141.0
+594	Roy Harper	Stormcock	3.92	2171.0	94.0
+595	Coil	Musick to Play in the Dark	3.89	3033.0	65.0
+596	Johnny Cash	American IV: The Man Comes Around	3.89	4392.0	166.0
+597	Darkthrone	Transilvanian Hunger	3.83	4879.0	152.0
+598	Robbie Basho	Visions of the Country	3.94	1268.0	31.0
+599	Sepultura	Arise	3.87	4249.0	136.0
+600	Tim Buckley	Starsailor	3.85	4185.0	162.0
+601	Dismember	Like an Ever Flowing Stream	3.9	2548.0	96.0
+602	NoMeansNo	Wrong	3.89	3501.0	116.0
+603	The Band	Music From Big Pink	3.88	5293.0	228.0
+604	Judas Priest	Defenders of the Faith	3.88	3796.0	155.0
+605	Bathory	Blood Fire Death	3.85	4275.0	128.0
+606	Van Morrison	Veedon Fleece	3.93	2214.0	105.0
+607	Simon & Garfunkel	Bookends	3.87	4564.0	178.0
+608	English Baroque Soloists	Mass in B minor	3.97	521.0	17.0
+609	System of a Down	Toxicity	3.66	11583.0	520.0
+610	Kate Bush	The Kick Inside	3.83	5689.0	215.0
+611	Beach House	Teen Dream	3.69	9938.0	337.0
+612	Cryptopsy	None So Vile	3.88	3713.0	187.0
+613	Blondie	Parallel Lines	3.84	6238.0	233.0
+614	David Bowie	Scary Monsters (And Super Creeps)	3.82	8135.0	282.0
+615	John Coltrane	Meditations	3.93	2265.0	66.0
+616	Avey Tare	Spirit They're Gone Spirit They've Vanished	3.77	6442.0	185.0
+617	Frank Zappa	Apostrophe (')	3.85	4890.0	141.0
+618	Pete Rock & C.L. Smooth	Mecca and the Soul Brother	3.9	2535.0	90.0
+619	Big Black	Atomizer	3.84	5092.0	126.0
+620	Galaxie 500	On Fire	3.78	6107.0	203.0
+621	The Sound	Jeopardy	3.9	3046.0	79.0
+622	Yo La Tengo	Painful	3.88	4444.0	100.0
+623	Nick Cave & The Bad Seeds	The Boatman's Call	3.84	5196.0	144.0
+624	Autopsy	Mental Funeral	3.9	2545.0	77.0
+625	Massive Attack	Blue Lines	3.78	8587.0	246.0
+626	Faust	Faust	3.8	5148.0	183.0
+627	Astor Piazzolla and The New Tango Quintet	Tango: Zero Hour / Nuevo Tango: Hora Zero	3.95	1220.0	40.0
+628	De La Soul	3 Feet High and Rising	3.8	5638.0	214.0
+629	The Cure	Faith	3.82	6594.0	202.0
+630	Coil	Horse Rotorvator	3.84	4011.0	94.0
+631	Rush	A Farewell to Kings	3.85	5024.0	190.0
+632	Bark Psychosis	Hex	3.81	4801.0	141.0
+633	Oliver Nelson	The Blues and the Abstract Truth	3.93	1756.0	59.0
+634	光田康典 [Yasunori Mitsuda]	Chrono Cross: Original Soundtrack	3.95	551.0	34.0
+635	Stars of the Lid	And Their Refinement of the Decline	3.85	3641.0	115.0
+636	The Pretty Things	S.F. Sorrow	3.9	2911.0	144.0
+637	Jay-Z	The Blueprint	3.81	5450.0	246.0
+638	Pink Floyd	A Saucerful of Secrets	3.69	10904.0	360.0
+639	Porcupine Tree	Deadwing	3.81	6306.0	238.0
+640	Joni Mitchell	Court and Spark	3.88	3503.0	130.0
+641	Wiener Philharmoniker	Requiem	4.01	394.0	9.0
+642	Sixteen Horsepower	Sackcloth 'n' Ashes	3.89	2945.0	90.0
+643	Nick Cave and The Bad Seeds	No More Shall We Part	3.89	4519.0	139.0
+644	Pete Rock & C.L. Smooth	The Main Ingredient	3.92	1588.0	61.0
+645	John Martyn	Solid Air	3.9	2512.0	115.0
+646	King Diamond	Abigail	3.88	2898.0	128.0
+647	The Cure	The Head on the Door	3.83	7018.0	190.0
+648	Manic Street Preachers	The Holy Bible	3.82	4745.0	253.0
+649	Big Star	#1 Record	3.86	5030.0	191.0
+650	Stereolab	Emperor Tomato Ketchup	3.83	5269.0	155.0
+651	Neurosis	Times of Grace	3.89	3044.0	73.0
+652	Helloween	Keeper of the Seven Keys Part II	3.85	3394.0	137.0
+653	Mogwai	Mogwai Young Team	3.75	7252.0	186.0
+654	OutKast	Stankonia	3.79	6838.0	189.0
+655	Tim Buckley	Happy Sad	3.86	3871.0	135.0
+656	Clint Mansell	The Fountain	3.9	1952.0	71.0
+657	Tyler, the Creator	Flower Boy	3.77	7070.0	172.0
+658	Swans	Children of God	3.8	5985.0	116.0
+659	Wiener Philharmoniker	Symphonie No. 4	3.95	680.0	19.0
+660	Herbie Hancock	Sextant	3.91	2302.0	70.0
+661	The Rolling Stones	Aftermath	3.8	6341.0	259.0
+662	Bob Dylan	John Wesley Harding	3.82	6210.0	233.0
+663	Supertramp	Crime of the Century	3.85	3750.0	163.0
+664	Guided by Voices	Alien Lanes	3.85	3966.0	139.0
+665	Swans	The Great Annihilator	3.83	5389.0	60.0
+666	Bad Brains	Bad Brains	3.83	5068.0	214.0
+667	Crosby, Stills & Nash	Crosby, Stills & Nash	3.87	3525.0	147.0
+668	Paul McCartney	Band on the Run	3.88	4506.0	232.0
+669	Van der Graaf Generator	Still Life	3.9	2197.0	90.0
+670	Frank Ocean	channel ORANGE	3.71	9904.0	257.0
+671	The Mothers	The Grand Wazoo	3.88	3450.0	103.0
+672	A Tribe Called Quest	People's Instinctive Travels and the Paths of Rhythm	3.85	4699.0	119.0
+673	Viktor Vaughn	Vaudeville Villain	3.87	3582.0	78.0
+674	Reinbert de Leeuw	Gnossiennes; Gymnopédies; Ogives; Trois sarabandes; Petite ouverture à danser	3.95	807.0	22.0
+675	Bob Dylan	The Times They Are A-Changin'	3.8	6989.0	239.0
+676	The Gun Club	Fire of Love	3.83	4203.0	129.0
+677	Paul Simon	Graceland	3.83	5821.0	248.0
+678	The Pogues	Rum Sodomy & the Lash	3.87	3349.0	141.0
+679	Mike Oldfield	Ommadawn	3.88	2842.0	99.0
+680	Autechre	Tri repetae	3.79	5369.0	148.0
+681	芸能山城組 [Geinoh Yamashirogumi]	Symphonic Suite AKIRA	3.95	1054.0	36.0
+682	David Wise	Donkey Kong Country 2: Diddy's Kong Quest	3.94	598.0	25.0
+683	Gil Scott-Heron	Pieces of a Man	3.9	2519.0	79.0
+684	Elton John	Goodbye Yellow Brick Road	3.86	4547.0	247.0
+685	Neurosis	A Sun That Never Sets	3.86	2897.0	61.0
+686	The Charlie Mingus Jazz Workshop	Pithecanthropus Erectus	3.9	2809.0	75.0
+687	Coroner	Mental Vortex	3.89	2327.0	66.0
+688	Pascal Rogé	3 Gymnopédies & Other Piano Works · und andere Klavierstücke	3.94	1126.0	30.0
+689	Dead Kennedys	Plastic Surgery Disasters	3.88	3921.0	109.0
+690	Philip Glass	Glassworks	3.87	2960.0	61.0
+691	Blind Guardian	Imaginations From the Other Side	3.85	3034.0	107.0
+692	Pierre Boulez	Complete Works Opp 1-31	3.96	441.0	15.0
+693	Death	Leprosy	3.83	4842.0	144.0
+694	Cat Stevens	Tea for the Tillerman	3.87	3888.0	163.0
+695	Tindersticks	Tindersticks	3.85	2964.0	101.0
+696	Hüsker Dü	New Day Rising	3.84	4616.0	146.0
+697	Fela Kuti	Sorrow Tears and Blood	3.94	1118.0	21.0
+698	Collegium Vocale Gent	Matthäus-Passion	3.95	430.0	11.0
+699	The Allman Brothers Band	Eat a Peach	3.9	2949.0	133.0
+700	Eric B. & Rakim	Paid In Full	3.83	4474.0	205.0
+701	R.E.M.	Lifes Rich Pageant	3.84	4905.0	188.0
+702	R.E.M.	Reckoning	3.83	5447.0	195.0
+703	The Mothers	Over-Nite Sensation	3.86	3785.0	136.0
+704	Wayne Shorter	Juju	3.92	1669.0	45.0
+705	The Knife	Silent Shout	3.75	6922.0	177.0
+706	田中宏和 [Hirokazu Tanaka]	Mother 2: ギーグの逆襲	3.99	530.0	21.0
+707	Danny Brown	XXX	3.77	6516.0	129.0
+708	Grant Green	Idle Moments	3.92	2000.0	54.0
+709	Wipers	Is This Real?	3.89	2640.0	58.0
+710	Ghostface Killah	Ironman	3.88	3163.0	127.0
+711	Jorge Ben	África Brasil	3.93	1617.0	61.0
+712	Van Halen	Van Halen	3.77	5946.0	358.0
+713	Ghostface Killah	Supreme Clientele	3.85	3714.0	133.0
+714	Nick Cave and The Bad Seeds	Murder Ballads	3.81	5857.0	152.0
+715	Miles Davis Quintet	Miles Smiles	3.9	2657.0	81.0
+716	Steely Dan	Can't Buy a Thrill	3.88	3943.0	161.0
+717	Derek and The Dominos	Layla and Other Assorted Love Songs	3.82	4518.0	248.0
+718	Camel	The Snow Goose	3.87	3524.0	121.0
+719	Yes	Relayer	3.83	5059.0	237.0
+720	Candlemass	Nightfall	3.86	2842.0	86.0
+721	Angelo Badalamenti	Twin Peaks: Fire Walk With Me	3.96	1376.0	20.0
+722	Miles Davis	Ascenseur pour l'échafaud	3.9	2351.0	67.0
+723	Basil Poledouris	Conan the Barbarian	3.93	673.0	24.0
+724	This Heat	This Heat	3.84	3538.0	103.0
+725	Peter Gabriel	So	3.86	4772.0	207.0
+726	Blue Öyster Cult	Secret Treaties	3.88	2779.0	143.0
+727	Sonny Sharrock	Ask the Ages	3.9	1481.0	55.0
+728	Sufjan Stevens	The Age of Adz	3.74	7457.0	241.0
+729	Sun Ra and His Arkestra	Sleeping Beauty	3.93	1290.0	18.0
+730	Al Green	Call Me	3.9	2059.0	80.0
+731	Dusty Springfield	Dusty in Memphis	3.9	2832.0	131.0
+732	Invisible	El jardín de los presentes	3.93	923.0	35.0
+733	Grateful Dead	American Beauty	3.8	4959.0	254.0
+734	W.A.S.P.	The Crimson Idol	3.88	1810.0	91.0
+735	Joni Mitchell	Hejira	3.87	2643.0	122.0
+736	Rainbow	Long Live Rock 'n' Roll	3.89	3011.0	114.0
+737	Andrew Hill	Point of Departure	3.89	1964.0	57.0
+738	久石譲 [Joe Hisaishi]	もののけ姫 (Mononoke-hime)	3.97	704.0	11.0
+739	Meat Puppets	Meat Puppets II	3.84	4126.0	149.0
+740	Tom Waits	Small Change	3.85	4324.0	137.0
+741	Camel	Moonmadness	3.87	3278.0	122.0
+742	BBC Symphony Orchestra	Requiem	3.98	362.0	9.0
+743	Siouxsie and The Banshees	Juju	3.85	3904.0	108.0
+744	Gojira	From Mars to Sirius	3.81	4314.0	129.0
+745	AC/DC	Highway to Hell	3.7	8413.0	444.0
+746	Pixies	Bossanova	3.73	8788.0	260.0
+747	Ramones	Leave Home	3.84	3718.0	143.0
+748	Deerhunter	Halcyon Digest	3.74	7907.0	206.0
+749	Gravediggaz	6 Feet Deep	3.86	2961.0	110.0
+750	Diamond Head	Lightning to the Nations	3.9	1913.0	105.0
+751	Academy of St Martin in the Fields	Amadeus	3.97	427.0	9.0
+752	Various Artists	A Clockwork Orange	3.93	1336.0	50.0
+753	Baden Powell	Os afro-sambas de Baden e Vinícius	3.93	890.0	20.0
+754	Magma	Mekanïk Destruktïw Kommandöh	3.8	3718.0	159.0
+755	Van Morrison	Saint Dominic's Preview	3.91	2074.0	76.0
+756	The Pogues	If I Should Fall From Grace With God	3.88	2836.0	100.0
+757	Vektor	Black Future	3.85	2653.0	144.0
+758	Ice Cube	Death Certificate	3.87	2482.0	113.0
+759	The United States of America	The United States of America	3.83	3914.0	165.0
+760	Junior Wells' Chicago Blues Band	Hoodoo Man Blues	3.91	1240.0	57.0
+761	The Seatbelts	Cowboy Bebop	3.92	1720.0	63.0
+762	Various Artists	Tropicália ou panis et circencis	3.94	1199.0	29.0
+763	Concertgebouworkest	The Complete Works	3.91	739.0	20.0
+764	Nico	The Marble Index	3.82	3657.0	103.0
+765	Philip Glass	Koyaanisqatsi	3.87	2237.0	67.0
+766	U2	Achtung Baby	3.75	8311.0	416.0
+767	Jacques Brel	Ces gens-là	3.92	784.0	16.0
+768	Tame Impala	Lonerism	3.66	10142.0	257.0
+769	Parliament	Funkentelechy vs. the Placebo Syndrome	3.91	1663.0	60.0
+770	Magazine	Real Life	3.85	3727.0	111.0
+771	Soundgarden	Badmotorfinger	3.79	6220.0	235.0
+772	Entombed	Left Hand Path	3.85	3169.0	83.0
+773	Oasis	(What's the Story) Morning Glory?	3.68	12395.0	609.0
+774	Dream Theater	Images and Words	3.69	8109.0	411.0
+775	Big Star	Radio City	3.87	3739.0	136.0
+776	近藤浩治 [Koji Kondo]	The Legend of Zelda (ゼルダの伝説): ムジュラの仮面オリジナル・サウンドトラック (Majora's Mask Original Soundtrack)	3.95	532.0	11.0
+777	The Roots	Game Theory	3.86	2939.0	86.0
+778	Buena Vista Social Club	Buena Vista Social Club	3.85	3960.0	107.0
+779	Freddie Gibbs	Piñata	3.76	5988.0	143.0
+780	Mount Eerie	A Crow Looked at Me	3.74	5969.0	218.0
+781	Nick Cave & The Bad Seeds	Abattoir Blues / The Lyre of Orpheus	3.84	4211.0	124.0
+782	Bolt Thrower	Those Once Loyal	3.89	1948.0	69.0
+783	Carcass	Necroticism - Descanting the Insalubrious	3.85	3150.0	115.0
+784	近藤浩治 [Koji Kondo]	The Legend of Zelda: Ocarina of Time Original Soundtrack	3.93	868.0	38.0
+785	Albert Ayler Trio	Spiritual Unity	3.83	3101.0	94.0
+786	Al Green	I'm Still in Love With You	3.92	1537.0	61.0
+787	Art Blakey & The Jazz Messengers	Free for All	3.93	1051.0	35.0
+788	Gas	Pop	3.8	3662.0	97.0
+789	Roxy Music	Roxy Music	3.81	4586.0	179.0
+790	Pescado Rabioso	Artaud	3.89	1441.0	53.0
+791	Johnny Cash	American III: Solitary Man	3.89	2753.0	88.0
+792	Car Seat Headrest	Twin Fantasy	3.86	2517.0	92.0
+793	Kendrick Lamar	DAMN.	3.61	11330.0	299.0
+794	The Doors	Morrison Hotel	3.75	7881.0	254.0
+795	LaSalle Quartett	Neue Wiener Schule: Die Streichquartette	3.95	425.0	19.0
+796	Death Grips	The Powers That B	3.79	5797.0	93.0
+797	Max Roach	We Insist! Max Roach's Freedom Now Suite	3.88	1664.0	37.0
+798	Manuel Göttsching	E2-E4	3.85	2294.0	90.0
+799	Angelo Badalamenti	Twin Peaks: Limited Event Series Soundtrack	3.94	1022.9999999999999	22.0
+800	Echo & The Bunnymen	Ocean Rain	3.8	5160.0	179.0
+801	Peter Gabriel	Passion (Music for The Last Temptation of Christ)	3.88	2235.0	88.0
+802	Suede	Dog Man Star	3.85	3605.0	129.0
+803	Porcupine Tree	Fear of a Blank Planet	3.74	6421.0	347.0
+804	Iron Maiden	Killers	3.74	7571.0	305.0
+805	The Sound	From the Lions Mouth	3.87	2595.0	102.0
+806	Joanna Newsom	Divers	3.82	3922.0	104.0
+807	Ulver	Perdition City	3.8	5070.0	165.0
+808	Morphine	Cure for Pain	3.83	3654.0	89.0
+809	Fairport Convention	Unhalfbricking	3.88	2350.0	90.0
+810	Primordial	To the Nameless Dead	3.85	2247.0	81.0
+811	Opeth	Morningrise	3.8	5051.0	153.0
+812	Sufjan Stevens	Michigan	3.78	6885.0	136.0
+813	Ewa Demarczyk	Ewa Demarczyk śpiewa piosenki Zygmunta Koniecznego	3.89	1076.0	36.0
+814	Tom Waits	Franks Wild Years	3.85	3951.0	109.0
+815	Tindersticks	Tindersticks [II]	3.87	2195.0	73.0
+816	Porcupine Tree	Lightbulb Sun	3.82	4482.0	146.0
+817	椎名林檎 [Sheena Ringo]	加爾基 精液 栗ノ花 (Kalk Samen Kuri no Hana)	3.85	2072.0	80.0
+818	Jeru the Damaja	The Sun Rises in the East	3.86	2401.0	96.0
+819	Narodowa Orkiestra Symfoniczna Polskiego Radia w Katowicach	Symphony No. 3 (Symphony of Sorrowful Songs); 3 Olden Style Pieces	3.94	389.0	4.0
+820	Tortoise	Millions Now Living Will Never Die	3.75	5735.0	154.0
+821	Godflesh	Streetcleaner	3.82	3734.0	132.0
+822	The Byrds	Younger Than Yesterday	3.87	3864.0	183.0
+823	Carcass	Heartwork	3.81	4319.0	166.0
+824	Steely Dan	Countdown to Ecstasy	3.88	3069.0	112.0
+825	Drive Like Jehu	Yank Crime	3.82	3928.0	90.0
+826	Funkadelic	One Nation Under a Groove	3.88	2728.0	81.0
+827	The Byrds	The Notorious Byrd Brothers	3.88	3424.0	180.0
+828	Gentle Giant	Octopus	3.82	3855.0	148.0
+829	Alice Cooper	Billion Dollar Babies	3.85	3272.0	183.0
+830	植松伸夫 [Nobuo Uematsu]	Final Fantasy IX Original Soundtrack	3.96	569.0	16.0
+831	Harmonium	Les cinq saisons	3.86	1943.0	99.0
+832	The Kinks	Lola Versus Powerman and the Moneygoround (Part One)	3.88	3543.0	138.0
+833	Red Hot Chili Peppers	Blood Sugar Sex Magik	3.65	10850.0	470.0
+834	The Go-Betweens	16 Lovers Lane	3.86	2865.0	112.0
+835	T.2.	It'll All Work Out in Boomland	3.89	1667.0	76.0
+836	McCoy Tyner	The Real McCoy	3.91	1430.0	36.0
+837	Arditti String Quartet	Arnold Schoenberg 2: Streichquartette I-IV	3.93	546.0	10.0
+838	Jethro Tull	Stand Up	3.83	3695.0	164.0
+839	Moondog	Moondog	3.87	2883.0	70.0
+840	Digable Planets	Blowout Comb	3.85	2633.0	87.0
+841	Coroner	No More Color	3.88	1962.0	56.0
+842	Michael Jackson	Off the Wall	3.81	5720.0	241.0
+843	Nick Cave & The Bad Seeds	Skeleton Tree	3.78	4983.0	109.0
+844	Tom Zé	Estudando o samba	3.91	1108.0	22.0
+845	The Beatles	Let It Be	3.64	14453.0	661.0
+846	Art Ensemble of Chicago	Les stances à Sophie	3.87	1900.0	36.0
+847	Santana	Caravanserai	3.88	2122.0	104.0
+848	Nino Rota	The Godfather	3.93	896.0	14.0
+849	Scott Walker	Scott 3	3.84	3256.0	86.0
+850	Strapping Young Lad	City	3.83	3060.0	121.0
+851	John Coltrane	Sun Ship	3.91	1385.0	34.0
+852	Mahavishnu Orchestra	Birds of Fire	3.84	3266.0	109.0
+853	CunninLynguists	A Piece of Strange	3.82	3027.0	98.0
+854	David Sylvian	Secrets of the Beehive	3.84	2887.0	103.0
+855	Ocean Machine	Biomech	3.84	2685.0	130.0
+856	The Mars Volta	Frances the Mute	3.68	8178.000000000001	369.0
+857	Triana	El patio	3.9	1231.0	49.0
+858	Charlie Mingus	Tijuana Moods	3.9	1866.0	41.0
+859	Moonsorrow	Verisäkeet	3.84	1980.0	65.0
+860	Ella Fitzgerald	Ella Fitzgerald Sings the Cole Porter Song Book	3.9	1018.0	48.0
+861	Cleveland Orchestra	Pétrouchka; Le Sacre du printemps	3.94	300.0	6.0
+862	Sleater-Kinney	The Woods	3.82	3681.0	127.0
+863	Howard Shore	The Lord of the Rings: The Two Towers	3.92	1101.0	16.0
+864	Dadawah	Peace and Love	3.87	1302.0	46.0
+865	Alice Cooper	Killer	3.84	2959.0	174.0
+866	Nina Simone	Little Girl Blue	3.89	1459.0	59.0
+867	Santana	Santana	3.87	2829.0	106.0
+868	Common	Be	3.83	3813.0	150.0
+869	Faith No More	The Real Thing	3.78	6077.0	218.0
+870	Jorge Ben	Fôrça bruta	3.92	1216.0	28.0
+871	Depeche Mode	Songs of Faith and Devotion	3.81	4467.0	142.0
+872	Pearl Jam	Vs.	3.73	7559.0	295.0
+873	Neurosis	Souls at Zero	3.85	2416.0	67.0
+874	Bernard Herrmann	Vertigo	3.91	631.0	16.0
+875	Dream Theater	Metropolis Pt. 2: Scenes From a Memory	3.69	6913.0	360.0
+876	Bruce Dickinson	The Chemical Wedding	3.88	1795.0	73.0
+877	Bob Dylan	Another Side of Bob Dylan	3.79	5763.0	225.0
+878	Morbid Angel	Covenant	3.85	2928.0	75.0
+879	Klaus Schulze	"""X"""	3.87	1627.0	52.0
+880	Silvio Rodríguez	"""Al final de este viaje..."""	3.9	655.0	31.0
+881	Philip Glass	Koyaanisqatsi	3.93	497.0	8.0
+882	Miles Davis	Nefertiti	3.88	2333.0	54.0
+883	Brian Wilson	Smile	3.79	4378.0	251.0
+884	Lee Morgan	Search for the New Land	3.93	909.0	25.0
+885	Tiamat	Wildhoney	3.84	2547.0	90.0
+886	Venetian Snares	Rossz csillag alatt született	3.76	5133.0	140.0
+887	John Coltrane	Coltrane	3.91	1352.0	33.0
+888	Joni Mitchell	The Hissing of Summer Lawns	3.86	2417.0	95.0
+889	James Carr	You Got My Mind Messed Up	3.87	1535.0	60.0
+890	Kraftwerk	Autobahn	3.74	6816.0	207.0
+891	Alice Cooper	Love It to Death	3.85	2825.0	175.0
+892	Wiener Philharmoniker	Symphonie No. 9 / Moldau	3.99	170.0	4.0
+893	of Montreal	Hissing Fauna, Are You the Destroyer?	3.72	6587.0	238.0
+894	Clipse	Hell Hath No Fury	3.82	3176.0	135.0
+895	Janelle Monáe	The ArchAndroid	3.74	5966.0	248.0
+896	Helloween	Keeper of the Seven Keys Part I	3.8	3570.0	127.0
+897	Otis Redding	Complete & Unbelievable: The Otis Redding Dictionary of Soul	3.89	1408.0	45.0
+898	Weakling	Dead as Dreams	3.84	1957.0	88.0
+899	Nina Simone	Nina Simone Sings the Blues	3.91	1232.0	24.0
+900	Don Cherry	Don Cherry	3.9	1024.0	25.0
+901	Gorillaz	Demon Days	3.68	12292.0	285.0
+902	Sleep	Dopesmoker	3.8	4102.0	162.0
+903	Clifford Brown and Max Roach	Clifford Brown and Max Roach	3.9	1129.0	35.0
+904	Santana	Santana III	3.89	1915.0	74.0
+905	Genesis	A Trick of the Tail	3.8	4370.0	197.0
+906	FLUX Quartet	Feldman Edition 6: String Quartet No. 2	3.89	490.0	23.0
+907	Anathema	Judgement	3.81	3455.0	95.0
+908	Porcupine Tree	Stupid Dream	3.81	4296.0	144.0
+909	The Peter Brötzmann Octet	Machine Gun	3.8	2592.0	113.0
+910	Sweet Trip	Velocity : Design : Comfort	3.83	3016.0	70.0
+911	Berliner Philharmoniker	Requiem KV 626	3.91	347.0	9.0
+912	Simon and Garfunkel	Parsley, Sage, Rosemary and Thyme	3.83	3696.0	135.0
+913	Stereolab	Transient Random-Noise Bursts With Announcements	3.81	3831.0	100.0
+914	Sparks	Kimono My House	3.81	4116.0	171.0
+915	Beck	Sea Change	3.7	8280.0	353.0
+916	Godspeed You! Black Emperor	'Allelujah! Don't Bend! Ascend!	3.69	7740.0	224.0
+917	Flower Travellin' Band	Satori	3.81	3206.0	126.0
+918	Howard Shore	The Lord of the Rings: The Return of the King	3.9	1059.0	19.0
+919	Bob Dylan	Time Out of Mind	3.82	4169.0	181.0
+920	Wilco	Summerteeth	3.81	6019.0	172.0
+921	Cynic	Focus	3.75	4739.0	223.0
+922	Steely Dan	Pretzel Logic	3.85	3536.0	136.0
+923	The Kinks	Face to Face	3.84	4224.0	178.0
+924	Explosions in the Sky	The Earth Is Not a Cold Dead Place	3.66	8503.0	318.0
+925	Andrew Lloyd Webber and Tim Rice	Jesus Christ Superstar	3.87	896.0	54.0
+926	Bathory	Under the Sign of the Black Mark	3.81	3458.0	84.0
+927	Renaissance	Scheherazade and Other Stories	3.88	1698.0	74.0
+928	Mike Oldfield	Tubular Bells	3.75	5344.0	214.0
+929	The Moody Blues With The London Festival Orchestra	Days of Future Passed	3.8	4248.0	233.0
+930	Sonny Clark	Cool Struttin'	3.9	1151.0	37.0
+931	Kreator	Pleasure to Kill	3.83	3246.0	158.0
+932	Fabrizio De André	Non al denaro non all'amore né al cielo	3.89	1361.0	29.0
+933	Captain Beefheart and The Magic Band	Shiny Beast (Bat Chain Puller)	3.87	2362.0	88.0
+934	Slayer	Hell Awaits	3.78	4870.0	185.0
+935	The Tale Quartet	String Quartets Nos. 1-3	3.98	312.0	7.0
+936	Joanna Newsom	The Milk-Eyed Mender	3.76	5630.0	217.0
+937	John Coltrane Quartet	Crescent	3.9	1528.0	35.0
+938	Berliner Philharmoniker	Symphonie Nr. 5	4.0	181.0	3.0
+939	Miles Davis	Milestones	3.87	2561.0	67.0
+940	Elliott Smith	Figure 8	3.78	5627.0	163.0
+941	Celtic Frost	To Mega Therion	3.81	3585.0	114.0
+942	MF DOOM	Operation: Doomsday	3.78	5224.0	115.0
+943	The White Stripes	White Blood Cells	3.74	9379.0	272.0
+944	Blur	Parklife	3.72	9004.0	298.0
+945	Leonard Cohen	Songs From a Room	3.8	4602.0	120.0
+946	Tim Hecker	Ravedeath, 1972	3.75	5356.0	116.0
+947	Slowdive	Pygmalion	3.75	5464.0	131.0
+948	大谷幸 [Ko Otani]	ワンダと巨像 大地の咆哮 (Wander and the Colossus: Roar of the Earth)	3.92	558.0	19.0
+949	Leonard Cohen	New Skin for the Old Ceremony	3.85	3114.0	78.0
+950	King Crimson	Starless and Bible Black	3.77	5421.0	178.0
+951	Nick Cave & The Bad Seeds	Henry's Dream	3.84	3813.0	80.0
+952	Wilhelm Furtwängler	Tristan und Isolde	3.93	325.0	13.0
+953	Slowdive	Just for a Day	3.76	5938.0	128.0
+954	Ozzy Osbourne	Blizzard of Ozz	3.79	4843.0	291.0
+955	Ween	Quebec	3.86	2600.0	87.0
+956	Deathspell Omega	Paracletus	3.78	3257.0	100.0
+957	John Lennon	Imagine	3.78	6578.0	275.0
+958	The Can	Monster Movie	3.76	5929.0	203.0
+959	Evgeni Koroliov	Die Kunst der Fuge	3.94	343.0	8.0
+960	Kate Bush	Never for Ever	3.82	3850.0	126.0
+961	Robin Trower	Bridge of Sighs	3.88	1541.0	106.0
+962	Bathory	Hammerheart	3.84	3374.0	99.0
+963	Steven Osborne	Vingt regards sur l'enfant-Jésus	3.94	272.0	6.0
+964	The Allman Brothers Band	The Allman Brothers Band	3.87	2095.0	91.0
+965	Captain Beyond	Captain Beyond	3.85	2268.0	150.0
+966	Caravan	If I Could Do It All Over Again, I'd Do It All Over You	3.88	2033.9999999999998	68.0
+967	Le Mystère des voix bulgares	Le mystère des voix bulgares : volume 1	3.88	1216.0	39.0
+968	Songs: Ohia	Didn't It Rain	3.88	1505.0	42.0
+969	Jethro Tull	Songs From the Wood	3.83	3042.0	123.0
+970	Danny Elfman	Tim Burton's The Nightmare Before Christmas	3.89	1164.0	29.0
+971	Steely Dan	The Royal Scam	3.87	2574.0	123.0
+972	Maurizio Pollini	Études Op.10 & Op.25	3.93	390.0	6.0
+973	Tom Waits	Alice	3.83	3820.0	112.0
+974	Rodriguez	Cold Fact	3.87	2009.9999999999998	79.0
+975	久石譲 [Joe Hisaishi]	千と千尋の神隠し (Sen to Chihiro no kamikakushi)	3.93	818.0	19.0
+976	Stereolab	Dots and Loops	3.82	3282.0	82.0
+977	Entombed	Clandestine	3.84	2399.0	67.0
+978	Alice Coltrane	Ptah, the El Daoud	3.88	1512.0	34.0
+979	Scott Walker	Tilt	3.8	3050.0	92.0
+980	Faith No More	King for a Day... Fool for a Lifetime	3.78	4687.0	170.0
+981	The Residents	Not Available	3.8	2876.0	102.0
+982	Brockhampton	Saturation III	3.8	4203.0	75.0
+983	OutKast	Southernplayalisticadillacmuzik	3.82	3683.0	113.0
+984	Exodus	Bonded by Blood	3.81	3311.0	183.0
+985	Pharoah Sanders	Black Unity	3.9	1335.0	39.0
+986	Pavement	Brighten the Corners	3.8	4981.0	140.0
+987	Jorge Ben	Samba esquema novo	3.89	1457.0	31.0
+988	Maurizio Pollini	Nocturnes	3.97	216.0	1.0
+989	Eric B. & Rakim	Follow the Leader	3.86	2214.0	95.0
+990	David Wise	DK Jamz	3.91	463.0	20.0
+991	Racionais MC's	Sobrevivendo no inferno	3.92	415.0	13.0
+992	Beastie Boys	Ill Communication	3.78	5095.0	150.0
+993	X-Ray Spex	Germfree Adolescents	3.84	2199.0	102.0
+994	N.W.A	Straight Outta Compton	3.72	6330.0	256.0
+995	New Order	Low-Life	3.81	4825.0	115.0
+996	Fela Kuti	Gentleman	3.89	1305.0	36.0
+997	Various Artists	David Lynch's Mulholland Dr.	3.93	794.0	19.0
+998	Tatiana Nikolayeva	Die Kunst der Fuge	4.0	227.0	2.0
+999	Steve Roach	Structures From Silence	3.84	2043.0000000000002	71.0
